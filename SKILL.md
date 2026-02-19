@@ -4,7 +4,7 @@ description: Construct a directed acyclic graph (DAG) representing the causal st
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3549
+  version: 1.0.3550
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - causal-diagram-construction
